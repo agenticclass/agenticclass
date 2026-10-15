@@ -2,7 +2,7 @@
 
 I am Rajkiran Panuganti, founder and CEO of **Cerebro Labs Inc.**, building AgentNava. My research interests include AI agents, reasoning circuits in language models, and multilingual AI reliability.
 
-Previously, I was Head of AI at Krutrim and worked at Microsoft and Google. My Microsoft work included Bing and Microsoft 365 Copilot Chat. I hold a PhD in Computer Science from The Ohio State University and a bachelor's degree from IIT Bombay.
+Previously, I worked at Microsoft and Google. My Microsoft work included Bing and Microsoft 365 Copilot Chat. I hold a PhD in Computer Science from The Ohio State University and a bachelor's degree from IIT Bombay.
 
 This is my research GitHub account. My engineering profile is [rajkiran-cerebro](https://github.com/rajkiran-cerebro).
 
